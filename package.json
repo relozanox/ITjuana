@@ -1,0 +1,15 @@
+{
+  "name": "ITjuana",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:relozanox/ITjuana.git",
+  "author": "raul.cbdev@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {}
+}
